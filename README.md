@@ -5,6 +5,7 @@ Social Media Manager & Content Writer with a Computer Science degree, expanding 
 - 🔭 Currently: building portfolio projects and sharpening full stack skills
 - 🌱 BSCS, Abbottabad University of Science and Technology (2024)
 - 💼 Background: social media management, content writing, video editing, web development
+- 🌐 Portfolio: [rafaqatmuhammadaown537.github.io/portfolio](https://rafaqatmuhammadaown537.github.io/portfolio/)
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-aown-rafaqat-1a7705451/)
 
 ## Skills
