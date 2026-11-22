@@ -17,5 +17,3 @@ Social Media Manager & Content Writer with a Computer Science degree, expanding 
 
 - Building a portfolio of real projects with Python and Flask
 - Growing brand voices as a freelance social media manager and writer
-- 
-
