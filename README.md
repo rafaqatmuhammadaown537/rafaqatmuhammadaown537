@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Aown Rafaqat 👋
 
 Full Stack Developer, Social Media Manager & Content Writer with a Computer Science degree.
-- 🔭 Currently: building portfolio projects and sharpening full stack skills
+- 🔭 Currently: building projects and sharpening full stack skills
 - 🌱 BSCS, Abbottabad University of Science and Technology (2024)
 - 💼 Background: social media management, content writing, video editing, web development
 - 🌐 Portfolio: [rafaqatmuhammadaown537.github.io/portfolio](https://rafaqatmuhammadaown537.github.io/portfolio/)
