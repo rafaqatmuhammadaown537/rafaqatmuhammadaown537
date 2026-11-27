@@ -1,7 +1,6 @@
 # Hi, I'm Muhammad Aown Rafaqat 👋
 
-Social Media Manager & Content Writer with a Computer Science degree, expanding into full stack programming.
-
+Full Stack Developer, Social Media Manager & Content Writer with a Computer Science degree.
 - 🔭 Currently: building portfolio projects and sharpening full stack skills
 - 🌱 BSCS, Abbottabad University of Science and Technology (2024)
 - 💼 Background: social media management, content writing, video editing, web development
