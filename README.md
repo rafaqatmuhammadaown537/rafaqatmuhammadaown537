@@ -15,5 +15,5 @@ Full Stack Developer, Social Media Manager & Content Writer with a Computer Scie
 
 ## What I'm working on
 
-- Building a portfolio of real projects across the full stack
+- Building a portfolio of projects across the full stack
 - Growing brand voices as a freelance social media manager and writer
